@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subodh2708
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python , this is my first programming language
+- 🌱 I’m currently learning machine learning , this is my first programming language
 - 💞️ I’m looking to collaborate on exploratory data analysis
 - 📫 U can reach on my email subodhlst@gmail.com
 
