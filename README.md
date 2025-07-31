@@ -1,45 +1,18 @@
-# 👋 Hi, I'm Subodh
+# 💫 About Me:
+- 🌱 Currently improving my **React** and **JavaScript** skills  <br>- 🛠 Building real-world projects to strengthen my portfolio  <br>- 🎯 Preparing for my **first job as a frontend developer**  <br>- 📚 Lifelong learner with a deep interest in clean code and great UI/UX 
 
-I'm a **Frontend Web Developer** focused on building responsive, user-friendly websites that not only look great but also solve real problems.
 
-## 🚀 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subodh-kumar-frontend) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Subodh0611) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subodhlst@gmail.com) 
 
-- 🌱 Currently improving my **React** and **JavaScript** skills  
-- 🛠 Building real-world projects to strengthen my portfolio  
-- 🎯 Preparing for my **first job as a frontend developer**  
-- 📚 Lifelong learner with a deep interest in clean code and great UI/UX  
-
-## 🧰 Tech Stack
-
-**Languages & Libraries:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Styling:**  
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
-![CSS Grid](https://img.shields.io/badge/-CSS%20Grid-000000?style=flat&logo=css3&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
-
-## 📁 Featured Projects
-
-🚧 **[Omnifood Landing Page](https://github.com/subodh2708/Omnifood)**  
-A responsive landing page built with modern HTML, CSS, and JavaScript. Currently working on making it fully responsive across all devices.
-
-<!-- Add more projects as you complete them -->
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/subodh-kumar-frontend)  
-- 📬 Email: subodhlst@gmail.com  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=2708&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=2708&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2708&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=2708&icon=0&color=0)](https://visitcount.itsvg.in)
 
-✨ Thanks for visiting my profile. Feel free to check out my pinned repos and follow along as I grow!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
